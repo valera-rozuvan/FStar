@@ -495,7 +495,7 @@ let extract' (g:env) (m:modul) : env * list<mllib> =
   if m.name.str <> "Prims"
   && (is_kremlin || not m.is_interface)
   && Options.should_extract m.name.str then begin
-    BU.print1 "Extracted module %s\n" (Print.lid_to_string m.name);
+    if not (Options.silent()) then (BU.print1 "Extracted module %s\n" (Print.lid_to_string m.name));
     g, [MLLib ([name, Some ([], mlm), (MLLib [])])]
   end else begin
     g, []
