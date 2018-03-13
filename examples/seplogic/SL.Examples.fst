@@ -109,26 +109,70 @@ private val split_lem : (#a:Type) -> (#b:Type) ->
                         squash a -> squash b -> Lemma (a /\ b)
 let split_lem #a #b sa sb = ()
 
+
+private let split' (#a #b: Type) (p_a: squash (a ==> b)) (p_b: squash a): Lemma (a /\ b) =
+  ()
+
 private let get_to_the_next_frame () :Tac unit =
   ignore (repeat (fun () -> apply_lemma (`split_lem); smt ()))
 
 #reset-options "--using_facts_from '* -FStar.Tactics -FStar.Reflection' --max_fuel 0 --initial_fuel 0 --max_ifuel 0 --initial_ifuel 0 --use_two_phase_tc false --print_full_names --__temp_fast_implicits"
 
+
+module P = PatternMatching
+
+let rec iter (#a: Type) (f: a -> Tac unit) (l: list a): Tac unit =
+  admit ();
+  match l with
+  | hd :: tl ->
+     f hd;
+     iter f tl
+  | [] ->
+     ()
+
 (*
  * two commands
  *)
-let write_read (r1 r2:ref int) (x y:int) =
+let write_read (r1 r2:ref int) (l1 l2:int) =
   (r1 := 2;
    !r2)
-  
-  <: STATE int (fun p m -> m == ((r1 |> x) <*> (r2 |> y)) /\ (defined m /\ p y ((r1 |> 2) <*> (r2 |> y))))
+
+  <: STATE int (fun p m -> m == ((r1 |> l1) <*> (r2 |> l2)) /\ (defined m /\ p l2 ((r1 |> 2) <*> (r2 |> l2))))
 
   by (fun () ->
       prelude ();
-      process_command ();
-      get_to_the_next_frame ();
-      apply_lemma (`lemma_rewrite_sep_comm);
-      process_command ())
+      // Note: figure out why we shouldn't use forall_intros.
+      // ignore (forall_intros ());
+      // Simplify away all the existentials and
+      // conjunctions, using the special split' lemma that allows us to steer
+      // recursion into the right-hand side of conjunctions
+      ignore (repeat (fun () ->
+        norm [];
+        match term_as_formula (cur_goal ()) with
+        | Exists _ _ ->
+            apply_lemma (`FStar.Classical.exists_intro);
+            later ()
+        | And _ _ ->
+            apply_lemma (`split')
+        | Implies _ _ ->
+            ignore (implies_intro ())
+        | _ ->
+            fail ""
+      ));
+      let e = cur_env () in
+      let bs = binders_of_env e in
+      iter (fun b ->
+        let h = type_of_binder b in
+        match term_as_formula h with
+        | Comp (Eq (Some t)) x y ->
+            match inspect x, inspect y with
+            | Tv_Uvar _ _, _ | _, Tv_Uvar _ _ ->
+                ignore (pose h);
+                trefl ()
+      ) bs;
+      dump "after initial discharging of all goals";
+      fail "todo"
+  )
 
 (*
  * four commands
@@ -142,6 +186,7 @@ let swap (r1 r2:ref int) (x y:int)
      <: STATE unit (fun post m -> m == ((r1 |> x) <*> (r2 |> y)) /\ (defined m /\ post () ((r1 |> y) <*> (r2 |> x))))
 
      by (fun () -> prelude ();
+       dump "swap1";
                 process_command ();
 		get_to_the_next_frame ();
 		process_command ();
@@ -167,6 +212,7 @@ let incr (r:ref int) (x:int)
      <: STATE int (fun post m -> m == (r |> x) /\ (defined m /\ post (x + 1) (r |> x + 1)))
 
      by (fun () -> prelude ();
+  dump "incr1";
                 process_command ();
 		get_to_the_next_frame ();
 		process_command ();
