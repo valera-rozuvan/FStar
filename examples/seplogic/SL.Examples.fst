@@ -162,13 +162,23 @@ let write_read (r1 r2:ref int) (l1 l2:int) =
       let e = cur_env () in
       let bs = binders_of_env e in
       iter (fun b ->
-        let h = type_of_binder b in
-        match term_as_formula h with
+        let h = norm [] (type_of_binder b) in
+        match term_as_formula' h with
         | Comp (Eq (Some t)) x y ->
-            match inspect x, inspect y with
+            unify x y
+            (* Todo:
+             * - only do this when it's an application of a uvar on one side,
+             *   then
+             * - get rid of the hypothesis to clean up the context *)
+            (* Sketch:
+            begin match inspect x, inspect y with
             | Tv_Uvar _ _, _ | _, Tv_Uvar _ _ ->
-                ignore (pose h);
-                trefl ()
+            | Tv_App (Tv_Uvar _ _), _ | _, Tv_App (Tv_Uvar _ _) ->
+            | _ ->
+                ()
+            end *)
+        | _ ->
+            ()
       ) bs;
       dump "after initial discharging of all goals";
       fail "todo"
