@@ -40,7 +40,7 @@ let rec unexpected
    : Div a
      (requires True)
      (ensures (fun _ -> True))
-   = let _ = FStar.IO.debug_print_string ("Platform.Error.unexpected: " ^ s) in
+   = let _ = FStar.IO.debug_print_string ("FStar.Error.unexpected: " ^ s) in
      unexpected s
 
 let rec unreachable
@@ -49,7 +49,7 @@ let rec unreachable
    : Div a
      (requires False)
      (ensures (fun _ -> False))
-   = let _ = FStar.IO.debug_print_string ("Platform.Error.unreachable: " ^ s) in
+   = let _ = FStar.IO.debug_print_string ("FStar.Error.unreachable: " ^ s) in
      unreachable s
 
 irreducible
