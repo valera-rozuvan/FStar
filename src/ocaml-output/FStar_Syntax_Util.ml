@@ -2097,8 +2097,16 @@ let (fvar_const : FStar_Ident.lident -> FStar_Syntax_Syntax.term) =
     FStar_Syntax_Syntax.fvar l FStar_Syntax_Syntax.delta_constant
       FStar_Pervasives_Native.None
   
-let (tand : FStar_Syntax_Syntax.term) = fvar_const FStar_Parser_Const.and_lid 
-let (tor : FStar_Syntax_Syntax.term) = fvar_const FStar_Parser_Const.or_lid 
+let (tand : FStar_Syntax_Syntax.term) =
+  FStar_Syntax_Syntax.fvar FStar_Parser_Const.and_lid
+    (FStar_Syntax_Syntax.Delta_constant_at_level (Prims.parse_int "2"))
+    FStar_Pervasives_Native.None
+  
+let (tor : FStar_Syntax_Syntax.term) =
+  FStar_Syntax_Syntax.fvar FStar_Parser_Const.or_lid
+    (FStar_Syntax_Syntax.Delta_constant_at_level (Prims.parse_int "2"))
+    FStar_Pervasives_Native.None
+  
 let (timp : FStar_Syntax_Syntax.term) =
   FStar_Syntax_Syntax.fvar FStar_Parser_Const.imp_lid
     (FStar_Syntax_Syntax.Delta_constant_at_level (Prims.parse_int "1"))
@@ -2112,13 +2120,25 @@ let (tiff : FStar_Syntax_Syntax.term) =
 let (t_bool : FStar_Syntax_Syntax.term) =
   fvar_const FStar_Parser_Const.bool_lid 
 let (b2t_v : FStar_Syntax_Syntax.term) =
-  fvar_const FStar_Parser_Const.b2t_lid 
+  FStar_Syntax_Syntax.fvar FStar_Parser_Const.b2t_lid
+    (FStar_Syntax_Syntax.Delta_constant_at_level (Prims.parse_int "2"))
+    FStar_Pervasives_Native.None
+  
 let (t_not : FStar_Syntax_Syntax.term) =
-  fvar_const FStar_Parser_Const.not_lid 
+  FStar_Syntax_Syntax.fvar FStar_Parser_Const.not_lid
+    (FStar_Syntax_Syntax.Delta_constant_at_level (Prims.parse_int "2"))
+    FStar_Pervasives_Native.None
+  
 let (t_false : FStar_Syntax_Syntax.term) =
-  fvar_const FStar_Parser_Const.false_lid 
+  FStar_Syntax_Syntax.fvar FStar_Parser_Const.false_lid
+    (FStar_Syntax_Syntax.Delta_constant_at_level (Prims.parse_int "1"))
+    FStar_Pervasives_Native.None
+  
 let (t_true : FStar_Syntax_Syntax.term) =
-  fvar_const FStar_Parser_Const.true_lid 
+  FStar_Syntax_Syntax.fvar FStar_Parser_Const.true_lid
+    (FStar_Syntax_Syntax.Delta_constant_at_level (Prims.parse_int "1"))
+    FStar_Pervasives_Native.None
+  
 let (tac_opaque_attr : FStar_Syntax_Syntax.term) = exp_string "tac_opaque" 
 let (dm4f_bind_range_attr : FStar_Syntax_Syntax.term) =
   fvar_const FStar_Parser_Const.dm4f_bind_range_attr 
