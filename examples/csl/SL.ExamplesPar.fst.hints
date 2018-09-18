@@ -1,0 +1,363 @@
+[
+  "9«¿\u000b≤Òh∆%ÎFíÂif\u007f",
+  [
+    [
+      "SL.ExamplesPar.left",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_7c462a6229692620a5ce6f846067a80e",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8359878918c830803afb203cd8a44f99",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_a7ed30f75f7986ddb8ec09f2485210f5"
+      ],
+      0,
+      "917bfda36f87e28ced89bef086772c4b"
+    ],
+    [
+      "SL.ExamplesPar.right",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_7a7e1f6677f181b9d5c9c50c1fe1c394",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8359878918c830803afb203cd8a44f99",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_d498339ca04b7f24aa6c67ad75cf6c85"
+      ],
+      0,
+      "c0ce2ab777cdbbf34697ecabbfb7a674"
+    ],
+    [
+      "SL.ExamplesPar.par1",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "function_token_typing_Prims.int",
+        "function_token_typing_SL.Heap.emp", "lemma_SL.Heap.lemma_sep_assoc",
+        "lemma_SL.Heap.lemma_sep_comm", "lemma_SL.Heap.lemma_sep_unit",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_0a832ae41a986fe11132f152252c94ac",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_78c95df678e3e283ac216346014b958d",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8002c79ae42ff92c4edc4d769192262d",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_cd225dd77bc8476b2ce0cc839b0de7bb",
+        "typing_SL.Heap.op_Bar_Greater",
+        "typing_SL.Heap.op_Less_Star_Greater"
+      ],
+      0,
+      "3a41455a57ad1c0aa13e8c92a6eab8e4"
+    ],
+    [
+      "SL.ExamplesPar.par1",
+      2,
+      2,
+      1,
+      [
+        "@query", "function_token_typing_Prims.int",
+        "lemma_SL.Heap.lemma_points_to_defined",
+        "lemma_SL.Heap.lemma_sep_unit", "typing_SL.Heap.op_Bar_Greater"
+      ],
+      0,
+      "09f92f52ce9a6db6ca0ebbab2ac304c4"
+    ],
+    [
+      "SL.ExamplesPar.par1",
+      3,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "bool_inversion",
+        "equation_FStar.Reflection.Data.var", "equation_FStar.Set.disjoint",
+        "equation_Prims.nat", "equation_SL.Heap.set",
+        "function_token_typing_FStar.Reflection.Data.var",
+        "function_token_typing_Prims.int", "int_inversion",
+        "lemma_FStar.Set.lemma_equal_elim",
+        "lemma_FStar.Set.lemma_equal_intro", "lemma_FStar.Set.mem_empty",
+        "lemma_FStar.Set.mem_intersect", "lemma_FStar.Set.mem_union",
+        "lemma_SL.Heap.lemma_addrs_in_join",
+        "lemma_SL.Heap.lemma_addrs_in_points_to",
+        "lemma_SL.Heap.lemma_sep_assoc", "lemma_SL.Heap.lemma_sep_defined",
+        "primitive_Prims.op_AmpAmp", "primitive_Prims.op_BarBar",
+        "projection_inverse_BoxBool_proj_0",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_cd225dd77bc8476b2ce0cc839b0de7bb",
+        "typing_FStar.Set.empty", "typing_FStar.Set.intersect",
+        "typing_FStar.Set.mem", "typing_FStar.Set.singleton",
+        "typing_FStar.Set.union", "typing_SL.Heap.addr_of",
+        "typing_SL.Heap.addrs_in", "typing_SL.Heap.op_Bar_Greater",
+        "typing_SL.Heap.op_Less_Star_Greater"
+      ],
+      0,
+      "45402f1a172e1ca7de0e136a6e0dfc4d"
+    ],
+    [
+      "SL.ExamplesPar.par2",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "function_token_typing_Prims.int",
+        "lemma_SL.Heap.lemma_sep_assoc", "lemma_SL.Heap.lemma_sep_comm",
+        "lemma_SL.Heap.lemma_sep_unit",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_0a832ae41a986fe11132f152252c94ac",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_78c95df678e3e283ac216346014b958d",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8002c79ae42ff92c4edc4d769192262d",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_cd225dd77bc8476b2ce0cc839b0de7bb",
+        "typing_SL.Heap.op_Bar_Greater",
+        "typing_SL.Heap.op_Less_Star_Greater"
+      ],
+      0,
+      "29cda82df2a119cc4db79c0a8d7b0085"
+    ],
+    [
+      "SL.ExamplesPar.par2",
+      2,
+      2,
+      1,
+      [
+        "@query", "function_token_typing_Prims.int",
+        "lemma_SL.Heap.lemma_points_to_defined",
+        "lemma_SL.Heap.lemma_sep_unit", "typing_SL.Heap.op_Bar_Greater"
+      ],
+      0,
+      "8e1a4739b973bd2359af805247ac8827"
+    ],
+    [
+      "SL.ExamplesPar.par2",
+      3,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "function_token_typing_Prims.int",
+        "int_inversion", "lemma_SL.Heap.lemma_sep_assoc",
+        "lemma_SL.Heap.lemma_sep_defined",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_cd225dd77bc8476b2ce0cc839b0de7bb",
+        "typing_SL.Heap.op_Bar_Greater",
+        "typing_SL.Heap.op_Less_Star_Greater"
+      ],
+      0,
+      "be80df0f8d4b9207b6279769e2085a5d"
+    ],
+    [
+      "SL.ExamplesPar.par3",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "function_token_typing_Prims.int",
+        "function_token_typing_SL.Heap.emp", "lemma_SL.Heap.lemma_sep_assoc",
+        "lemma_SL.Heap.lemma_sep_comm", "lemma_SL.Heap.lemma_sep_unit",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_65e45a2890915eacaad5ce9413efe12c",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8002c79ae42ff92c4edc4d769192262d",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8fecaa33f6055e5f320a01061426cd3e",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_fcf4b71e84174b0a19a519f26c5c798c",
+        "typing_SL.Heap.op_Bar_Greater",
+        "typing_SL.Heap.op_Less_Star_Greater"
+      ],
+      0,
+      "a0ffb67148064da22844e2238e05c54c"
+    ],
+    [
+      "SL.ExamplesPar.par3",
+      2,
+      2,
+      1,
+      [
+        "@query", "function_token_typing_Prims.int",
+        "lemma_SL.Heap.lemma_points_to_defined",
+        "lemma_SL.Heap.lemma_sep_unit", "typing_SL.Heap.op_Bar_Greater"
+      ],
+      0,
+      "ad8c1acea3fbc2fe4e7b958b46ba7f97"
+    ],
+    [
+      "SL.ExamplesPar.par3",
+      3,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "bool_inversion",
+        "equation_FStar.Reflection.Data.var", "equation_FStar.Set.disjoint",
+        "equation_Prims.nat", "equation_SL.Heap.set",
+        "function_token_typing_FStar.Reflection.Data.var",
+        "function_token_typing_Prims.int", "int_inversion",
+        "lemma_FStar.Set.lemma_equal_elim",
+        "lemma_FStar.Set.lemma_equal_intro", "lemma_FStar.Set.mem_empty",
+        "lemma_FStar.Set.mem_intersect", "lemma_FStar.Set.mem_union",
+        "lemma_SL.Heap.lemma_addrs_in_join",
+        "lemma_SL.Heap.lemma_addrs_in_points_to",
+        "lemma_SL.Heap.lemma_sep_assoc", "lemma_SL.Heap.lemma_sep_defined",
+        "primitive_Prims.op_AmpAmp", "primitive_Prims.op_BarBar",
+        "projection_inverse_BoxBool_proj_0",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_65e45a2890915eacaad5ce9413efe12c",
+        "typing_FStar.Set.empty", "typing_FStar.Set.intersect",
+        "typing_FStar.Set.mem", "typing_FStar.Set.singleton",
+        "typing_FStar.Set.union", "typing_SL.Heap.addr_of",
+        "typing_SL.Heap.addrs_in", "typing_SL.Heap.op_Bar_Greater",
+        "typing_SL.Heap.op_Less_Star_Greater"
+      ],
+      0,
+      "bda0ecae8fa08cb779adeab8101eb3c4"
+    ],
+    [
+      "SL.ExamplesPar.par3'",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "function_token_typing_Prims.int",
+        "function_token_typing_SL.Heap.emp", "lemma_SL.Heap.lemma_sep_assoc",
+        "lemma_SL.Heap.lemma_sep_comm", "lemma_SL.Heap.lemma_sep_unit",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_65e45a2890915eacaad5ce9413efe12c",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8002c79ae42ff92c4edc4d769192262d",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8fecaa33f6055e5f320a01061426cd3e",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_fcf4b71e84174b0a19a519f26c5c798c",
+        "typing_SL.Heap.op_Bar_Greater",
+        "typing_SL.Heap.op_Less_Star_Greater"
+      ],
+      0,
+      "2473b00ca7a1306d42fd04a65d5eb9bf"
+    ],
+    [
+      "SL.ExamplesPar.par3'",
+      2,
+      2,
+      1,
+      [
+        "@query", "function_token_typing_Prims.int",
+        "lemma_SL.Heap.lemma_points_to_defined",
+        "lemma_SL.Heap.lemma_sep_unit", "typing_SL.Heap.op_Bar_Greater"
+      ],
+      0,
+      "ac58b8a853ea35e3ddf1ec102fd08f08"
+    ],
+    [
+      "SL.ExamplesPar.par3'",
+      3,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "bool_inversion",
+        "equation_FStar.Reflection.Data.var", "equation_FStar.Set.disjoint",
+        "equation_Prims.nat", "equation_SL.Heap.set",
+        "function_token_typing_FStar.Reflection.Data.var",
+        "function_token_typing_Prims.int", "int_inversion",
+        "lemma_FStar.Set.lemma_equal_elim",
+        "lemma_FStar.Set.lemma_equal_intro", "lemma_FStar.Set.mem_empty",
+        "lemma_FStar.Set.mem_intersect", "lemma_FStar.Set.mem_union",
+        "lemma_SL.Heap.lemma_addrs_in_join",
+        "lemma_SL.Heap.lemma_addrs_in_points_to",
+        "lemma_SL.Heap.lemma_sep_assoc", "lemma_SL.Heap.lemma_sep_defined",
+        "primitive_Prims.op_AmpAmp", "primitive_Prims.op_BarBar",
+        "projection_inverse_BoxBool_proj_0",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_65e45a2890915eacaad5ce9413efe12c",
+        "typing_FStar.Set.empty", "typing_FStar.Set.intersect",
+        "typing_FStar.Set.mem", "typing_FStar.Set.singleton",
+        "typing_FStar.Set.union", "typing_SL.Heap.addr_of",
+        "typing_SL.Heap.addrs_in", "typing_SL.Heap.op_Bar_Greater",
+        "typing_SL.Heap.op_Less_Star_Greater"
+      ],
+      0,
+      "691f7ad220f2438cb5c762e1c3cbd012"
+    ],
+    [
+      "SL.ExamplesPar.ret",
+      1,
+      2,
+      1,
+      [
+        "@query", "equation_Prims.logical",
+        "equation_SL.Actions.lift_div_st", "equation_SL.Effect.frame_post",
+        "equation_SL.Effect.frame_wp", "equation_SL.Effect.st_stronger",
+        "equation_SL.Effect.with_fp",
+        "interpretation_FStar.ST_Tm_abs_57a0b3604dde9598e0f90c7508dec56e",
+        "interpretation_SL.Effect_Tm_abs_ee3b492c1ada998fe8f6b35b3bcd82cf",
+        "interpretation_SL.ExamplesPar_Tm_abs_9564a78966209243bce740a2fa63521c",
+        "interpretation_SL.ExamplesPar_Tm_abs_f8ff6b4e95041d032c0e5a07c9309162",
+        "l_and-interp", "l_imp-interp", "l_quant_interp__10468",
+        "token_correspondence_SL.Actions.lift_div_st",
+        "token_correspondence_SL.Effect.frame_wp"
+      ],
+      0,
+      "ec0de98683064e0aa98f032bf071cd85"
+    ],
+    [
+      "SL.ExamplesPar.set_to_2",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query",
+        "Prims_pretyping_f8666440faa91836cc5a13998af863fc",
+        "equation_Prims.logical", "equation_SL.Actions.lift_div_st",
+        "equation_SL.Actions.write_wp", "equation_SL.Effect.bind_wp",
+        "equation_SL.Effect.frame_post", "equation_SL.Effect.frame_wp",
+        "equation_SL.Effect.st_stronger", "equation_SL.Effect.with_fp",
+        "int_inversion",
+        "interpretation_FStar.ST_Tm_abs_57a0b3604dde9598e0f90c7508dec56e",
+        "interpretation_SL.Actions_Tm_abs_45e8af809545a5fe4eebf0a8e79fb1cf",
+        "interpretation_SL.Effect_Tm_abs_baff24c8285d3e1fde12d492db37eb6f",
+        "interpretation_SL.Effect_Tm_abs_d955f2da37623964126c02bd8735029c",
+        "interpretation_SL.Effect_Tm_abs_ee3b492c1ada998fe8f6b35b3bcd82cf",
+        "interpretation_SL.ExamplesPar_Tm_abs_addc6e66579cf4835b97030a5ec01935",
+        "interpretation_SL.ExamplesPar_Tm_abs_bc9bdaee1e07889148600d86cfa17179",
+        "interpretation_SL.ExamplesPar_Tm_abs_d5a4d9a20136220d0d9c6d3c18df52d5",
+        "l_imp-interp", "l_quant_interp__10473", "l_quant_interp__10481",
+        "l_quant_interp__7597",
+        "token_correspondence_SL.Actions.lift_div_st",
+        "token_correspondence_SL.Effect.frame_wp", "unit_typing"
+      ],
+      0,
+      "f9480596b2d838bbb08dffd5fff01100"
+    ],
+    [
+      "SL.ExamplesPar.par_set",
+      1,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query", "equation_SL.AutoTactic.memory_cm",
+        "function_token_typing_Prims.int",
+        "function_token_typing_SL.Heap.emp", "int_typing",
+        "lemma_SL.Heap.lemma_sep_assoc", "lemma_SL.Heap.lemma_sep_unit",
+        "lemma_SL.Heap.lemma_sep_unit_",
+        "proj_equation_FStar.Algebra.CommMonoid.CM_unit",
+        "projection_inverse_FStar.Algebra.CommMonoid.CM_unit",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_0a832ae41a986fe11132f152252c94ac",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_52298cbc453d32229573d91ac68a7b76",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8002c79ae42ff92c4edc4d769192262d",
+        "typing_SL.Heap.op_Bar_Greater",
+        "typing_SL.Heap.op_Less_Star_Greater"
+      ],
+      0,
+      "795516c1785502ed2795b537448a18a7"
+    ],
+    [
+      "SL.ExamplesPar.par_set",
+      2,
+      2,
+      1,
+      [
+        "@query", "assumption_SL.Heap.Emp_defined_axiom",
+        "equation_SL.AutoTactic.memory_cm",
+        "function_token_typing_SL.Heap.emp", "lemma_SL.Heap.lemma_sep_unit_",
+        "proj_equation_FStar.Algebra.CommMonoid.CM_unit",
+        "projection_inverse_FStar.Algebra.CommMonoid.CM_unit"
+      ],
+      0,
+      "d8417385fffeeedf653e6c6280c68791"
+    ],
+    [
+      "SL.ExamplesPar.par_set",
+      3,
+      2,
+      1,
+      [
+        "@MaxIFuel_assumption", "@query",
+        "refinement_interpretation_SL.ExamplesPar_Tm_refine_8359878918c830803afb203cd8a44f99"
+      ],
+      0,
+      "5aaae7f2d416376756c49f55909a872a"
+    ]
+  ]
+]

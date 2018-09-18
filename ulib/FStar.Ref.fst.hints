@@ -2,6 +2,15 @@
   "†\r\u0015;§,ØÝ\u000f\nšB1Þ'«",
   [
     [
+      "FStar.Ref.addr_of",
+      1,
+      2,
+      1,
+      [ "@query" ],
+      0,
+      "40ab2558e095405ca9b6b672c74940b4"
+    ],
+    [
       "FStar.Ref.only",
       1,
       2,
@@ -11,7 +20,7 @@
         "haseqPrims_Tm_refine_ba523126f67e00e7cd55f0b92f16681d"
       ],
       0,
-      "81603a276a4776e400d8289a92310ad8"
+      "68f5aad3ac926fd8d89bd3b2010a7f70"
     ],
     [
       "FStar.Ref.alloc",
@@ -25,7 +34,7 @@
         "haseqPrims_Tm_refine_ba523126f67e00e7cd55f0b92f16681d"
       ],
       0,
-      "01a266fdad80536c49477f2b274f4498"
+      "17665f03fe4c171a4ab6784b99964f48"
     ],
     [
       "FStar.Ref.write",
@@ -45,7 +54,16 @@
         "token_correspondence_FStar.Heap.trivial_preorder", "true_interp"
       ],
       0,
-      "0067a6b7c0ac7d621c46259b744b50c6"
+      "74a0d74bc71e787383b5f20f66d6190c"
+    ],
+    [
+      "FStar.Ref.addr_of",
+      2,
+      2,
+      1,
+      [ "@query" ],
+      0,
+      "c28404f6088a9565aeb217f437dbb25c"
     ],
     [
       "FStar.Ref.only",
@@ -57,7 +75,7 @@
         "haseqPrims_Tm_refine_ba523126f67e00e7cd55f0b92f16681d"
       ],
       0,
-      "83ea1e20295315c6ca5fdf89baa0c326"
+      "e3b608b4c69ed4cee2d7dcd005ff92e7"
     ],
     [
       "FStar.Ref.only",
@@ -69,7 +87,7 @@
         "haseqPrims_Tm_refine_ba523126f67e00e7cd55f0b92f16681d"
       ],
       0,
-      "0444e8d81ae534ab6735b381c15961fc"
+      "41d0e8985d21fa5ff41620a406602d4e"
     ],
     [
       "FStar.Ref.alloc",
@@ -81,7 +99,7 @@
         "haseqPrims_Tm_refine_ba523126f67e00e7cd55f0b92f16681d"
       ],
       0,
-      "fcc511b986d5aeaf5c78d5ed8cfcbace"
+      "7038367bc03d9859a47619f86935fecc"
     ]
   ]
 ]

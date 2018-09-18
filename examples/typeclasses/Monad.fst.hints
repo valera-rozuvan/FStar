@@ -1,0 +1,85 @@
+[
+  "œ≠ãêÔ˘\u0019(Î0K!ëÀò9",
+  [
+    [
+      "Monad.__proj__Mkmonad__item__laws",
+      1,
+      2,
+      1,
+      [
+        "@query", "proj_equation_Monad.Mkmonad_bind",
+        "proj_equation_Monad.Mkmonad_return",
+        "projection_inverse_Monad.Mkmonad_bind",
+        "projection_inverse_Monad.Mkmonad_return"
+      ],
+      0,
+      "9e73f025288e3da7f16a25a988c22919"
+    ],
+    [
+      "Monad.g",
+      1,
+      2,
+      1,
+      [
+        "@query", "equation_Monad.bind", "equation_Monad.return",
+        "token_correspondence_Monad.bind",
+        "token_correspondence_Monad.return"
+      ],
+      0,
+      "7b9cda09fe874e341377817ae6f28c0c"
+    ],
+    [
+      "Monad.g'",
+      1,
+      2,
+      1,
+      [
+        "@query", "equation_Monad.bind", "equation_Monad.return",
+        "token_correspondence_Monad.bind",
+        "token_correspondence_Monad.return"
+      ],
+      0,
+      "448ade241cd08656ff0e1ad39fbe9548"
+    ],
+    [
+      "Monad.__proj__Mkmonad__item__laws",
+      2,
+      2,
+      1,
+      [
+        "@query", "proj_equation_Monad.Mkmonad_bind",
+        "proj_equation_Monad.Mkmonad_return",
+        "projection_inverse_Monad.Mkmonad_bind",
+        "projection_inverse_Monad.Mkmonad_return"
+      ],
+      0,
+      "03c5fe14271f4ac2df51b3875299e007"
+    ],
+    [
+      "Monad.g",
+      2,
+      2,
+      1,
+      [
+        "@query", "equation_Monad.bind", "equation_Monad.return",
+        "token_correspondence_Monad.bind",
+        "token_correspondence_Monad.return"
+      ],
+      0,
+      "197a6d566bffe2e3215d4bd38e9a5603"
+    ],
+    [
+      "Monad.g'",
+      2,
+      2,
+      1,
+      [
+        "@query", "equation_Monad.bind", "equation_Monad.return",
+        "token_correspondence_Monad.bind",
+        "token_correspondence_Monad.return"
+      ],
+      0,
+      "b7dc595bedae8e198575f21ba68ed664"
+    ]
+  ]
+]

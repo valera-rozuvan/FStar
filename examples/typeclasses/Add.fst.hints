@@ -14,7 +14,7 @@
         "token_correspondence_Add.__proj__Mkadditive__item__plus"
       ],
       0,
-      "b0df5f1c66c68af9379d868c7bac404d"
+      "1249eac8e122ead3cc5c196e516c5342"
     ],
     [
       "Add.__proj__Mkadditive__item__zero_r",
@@ -29,7 +29,7 @@
         "token_correspondence_Add.__proj__Mkadditive__item__plus"
       ],
       0,
-      "a599ad9b3d1b5884c6c3fd0a51e2508c"
+      "6391612cab7a0b32da693cfe326298d1"
     ],
     [
       "Add.__proj__Mkadditive__item__plus_assoc",
@@ -42,7 +42,7 @@
         "token_correspondence_Add.__proj__Mkadditive__item__plus"
       ],
       0,
-      "271c2e5dfd585d3576d805a989d553f6"
+      "b8434e059c1df4b5ad583aaa67703516"
     ],
     [
       "Add.mkadd",
@@ -56,7 +56,7 @@
         "projection_inverse_Add.Mkadditive_zero"
       ],
       0,
-      "1b2760974a42659015e7ba5f91615128"
+      "e0cafd416f0f7a6d059276818e36aab2"
     ],
     [
       "Add.add_int",
@@ -68,7 +68,7 @@
         "primitive_Prims.op_Addition", "projection_inverse_BoxInt_proj_0"
       ],
       0,
-      "f510f161426580b7cdb12e9a765ef1e3"
+      "2c57b9f976a4c2980267e32b6be7b77b"
     ],
     [
       "Add.add_bool",
@@ -80,7 +80,7 @@
         "primitive_Prims.op_BarBar", "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "b38203b398eec08dd5082fb51f661c5b"
+      "04483177ec020b8fd83f10bb198c1090"
     ],
     [
       "Add.add_list",
@@ -89,10 +89,10 @@
       1,
       [ "@query" ],
       0,
-      "ce4a9d4acad39ddc4b3f026cf9ff8b7f"
+      "63af035b729a38c2162e8eeacf38f1f7"
     ],
     [
-      "Add.uu___62",
+      "Add.uu___63",
       1,
       2,
       1,
@@ -105,24 +105,7 @@
         "token_correspondence_Prims.op_Addition"
       ],
       0,
-      "7564381184c2957932eff3913b67654b"
-    ],
-    [
-      "Add.uu___63",
-      1,
-      2,
-      1,
-      [
-        "@MaxIFuel_assumption", "@query", "assumption_Prims.HasEq_bool",
-        "bool_inversion", "equation_Add.add_bool", "equation_Add.mkadd",
-        "equation_Add.plus", "primitive_Prims.op_BarBar",
-        "primitive_Prims.op_Equality", "proj_equation_Add.Mkadditive_plus",
-        "projection_inverse_Add.Mkadditive_plus",
-        "token_correspondence_Add.plus",
-        "token_correspondence_Prims.op_BarBar"
-      ],
-      0,
-      "d1b34dbdbde0a7f52a3f5a6f312bd5f2"
+      "960fec3a21ca28b87b18292b40d83eda"
     ],
     [
       "Add.uu___64",
@@ -139,10 +122,27 @@
         "token_correspondence_Prims.op_BarBar"
       ],
       0,
-      "4c0e6b429823bfeb946ffa3829cb3910"
+      "1aa70539d2f340e80459116f7f9e9ac8"
     ],
     [
       "Add.uu___65",
+      1,
+      2,
+      1,
+      [
+        "@query", "assumption_Prims.HasEq_bool", "equation_Add.add_bool",
+        "equation_Add.mkadd", "equation_Add.plus",
+        "primitive_Prims.op_BarBar", "primitive_Prims.op_Equality",
+        "proj_equation_Add.Mkadditive_plus",
+        "projection_inverse_Add.Mkadditive_plus",
+        "projection_inverse_BoxBool_proj_0", "token_correspondence_Add.plus",
+        "token_correspondence_Prims.op_BarBar"
+      ],
+      0,
+      "3dd6cc476c38a63caba16f4b38092f02"
+    ],
+    [
+      "Add.uu___66",
       1,
       2,
       1,
@@ -165,7 +165,7 @@
         "token_correspondence_FStar.List.Tot.Base.op_At"
       ],
       0,
-      "d050464f16b925e2dad5c8beb57d4f05"
+      "889b9e79d95c53277b340eeb3311b51f"
     ],
     [
       "Add.__proj__Mkadditive__item__zero_l",
@@ -180,7 +180,7 @@
         "token_correspondence_Add.__proj__Mkadditive__item__plus"
       ],
       0,
-      "9d41f86fe5b95f451c37f7fa2ff340f5"
+      "be86a696c4a874305d6f617f842f4be2"
     ],
     [
       "Add.__proj__Mkadditive__item__zero_r",
@@ -195,7 +195,7 @@
         "token_correspondence_Add.__proj__Mkadditive__item__plus"
       ],
       0,
-      "b708bd8ec6f1b80d77c4e30d5b5ef143"
+      "482a1d1873ee0e3755cda75f0e06d8c6"
     ],
     [
       "Add.__proj__Mkadditive__item__plus_assoc",
@@ -208,7 +208,7 @@
         "token_correspondence_Add.__proj__Mkadditive__item__plus"
       ],
       0,
-      "2d012409c566fc35b2a42cf4bf86ba71"
+      "4fb95bb971e1b8ff68043953ef99e9e9"
     ],
     [
       "Add.mkadd",
@@ -222,7 +222,7 @@
         "projection_inverse_Add.Mkadditive_zero"
       ],
       0,
-      "1173c5ea5af9c4503469e0cd55c7942c"
+      "6de094c64f66c9722d7ebff0a9dfddec"
     ],
     [
       "Add.add_int",
@@ -234,7 +234,7 @@
         "primitive_Prims.op_Addition", "projection_inverse_BoxInt_proj_0"
       ],
       0,
-      "db059ae76929ad337d1a3e151cb1487f"
+      "0fa5c681f121725fcb03a1ac13fbf495"
     ],
     [
       "Add.add_bool",
@@ -246,7 +246,7 @@
         "primitive_Prims.op_BarBar", "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "fbaaf37de4e530ea61dacda741d412bc"
+      "b3f904bb2086db416469cf713e3d4943"
     ],
     [
       "Add.add_list",
@@ -255,10 +255,10 @@
       1,
       [ "@query" ],
       0,
-      "8333653c6057aedae9625a660a64adde"
+      "49ea39e396129339e01f94693ea3e5f9"
     ],
     [
-      "Add.uu___62",
+      "Add.uu___63",
       2,
       2,
       1,
@@ -271,24 +271,7 @@
         "token_correspondence_Prims.op_Addition"
       ],
       0,
-      "e0de54fa9e71151c8bb3f5a61b8f256a"
-    ],
-    [
-      "Add.uu___63",
-      2,
-      2,
-      1,
-      [
-        "@MaxIFuel_assumption", "@query", "assumption_Prims.HasEq_bool",
-        "bool_inversion", "equation_Add.add_bool", "equation_Add.mkadd",
-        "equation_Add.plus", "primitive_Prims.op_BarBar",
-        "primitive_Prims.op_Equality", "proj_equation_Add.Mkadditive_plus",
-        "projection_inverse_Add.Mkadditive_plus",
-        "token_correspondence_Add.plus",
-        "token_correspondence_Prims.op_BarBar"
-      ],
-      0,
-      "9337c122cf88f2d941cccc74945898cd"
+      "5fe6083d837d1ab99c22cdbc8861b3d5"
     ],
     [
       "Add.uu___64",
@@ -305,10 +288,27 @@
         "token_correspondence_Prims.op_BarBar"
       ],
       0,
-      "043306645ecd37cc31cc2d4ebcf91ab5"
+      "386e9db632342f0f78f1ca796094000e"
     ],
     [
       "Add.uu___65",
+      2,
+      2,
+      1,
+      [
+        "@query", "assumption_Prims.HasEq_bool", "equation_Add.add_bool",
+        "equation_Add.mkadd", "equation_Add.plus",
+        "primitive_Prims.op_BarBar", "primitive_Prims.op_Equality",
+        "proj_equation_Add.Mkadditive_plus",
+        "projection_inverse_Add.Mkadditive_plus",
+        "projection_inverse_BoxBool_proj_0", "token_correspondence_Add.plus",
+        "token_correspondence_Prims.op_BarBar"
+      ],
+      0,
+      "2362d2c92c602644a815cc96263de279"
+    ],
+    [
+      "Add.uu___66",
       2,
       2,
       1,
@@ -331,7 +331,7 @@
         "token_correspondence_FStar.List.Tot.Base.op_At"
       ],
       0,
-      "0043572a6bed204f7f0ec65705d7b080"
+      "eefa7d2f6cc1261a6d208810de549fc3"
     ]
   ]
 ]
