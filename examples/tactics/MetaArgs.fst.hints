@@ -2,22 +2,13 @@
   "˜˘ê†HÑ\\p1k·\u000f∞_[\f",
   [
     [
-      "MetaArgs.uu___63",
+      "MetaArgs.uu___64",
       1,
       2,
       1,
       [ "@query", "equation_MetaArgs.test1" ],
       0,
-      "9ac02aa777dba6197e5297dcc845843b"
-    ],
-    [
-      "MetaArgs.uu___64",
-      1,
-      2,
-      1,
-      [ "@query", "equation_MetaArgs.diag" ],
-      0,
-      "5ae0d03c02c2cf8d03ce23c310a66349"
+      "d7ca922ac829290db9ede30cde9200a3"
     ],
     [
       "MetaArgs.uu___65",
@@ -26,16 +17,25 @@
       1,
       [ "@query", "equation_MetaArgs.diag" ],
       0,
-      "d90bd8101ec348ebedca688bbc9b9c9f"
+      "5a109ca4c1a51e3859a4a04b87ad487b"
     ],
     [
-      "MetaArgs.uu___63",
+      "MetaArgs.uu___66",
+      1,
+      2,
+      1,
+      [ "@query", "equation_MetaArgs.diag" ],
+      0,
+      "b2b9cb2541947bce911d7b4b5fb70f2e"
+    ],
+    [
+      "MetaArgs.uu___64",
       2,
       2,
       1,
       [ "@query", "equation_MetaArgs.test1" ],
       0,
-      "d52c3c74f0bb0f593b256403b6686fe8"
+      "94078fdc345c004888e2b9b61109dad8"
     ],
     [
       "MetaArgs.same_as",
@@ -52,16 +52,7 @@
         "typing_FStar.Tactics.Result.uu___is_Failed"
       ],
       0,
-      "9499beb7277318f5a3c7cc5c6fd79558"
-    ],
-    [
-      "MetaArgs.uu___64",
-      2,
-      2,
-      1,
-      [ "@query", "equation_MetaArgs.diag" ],
-      0,
-      "9d3278c00d4ea560167aa64c071ebd63"
+      "16946990f3801efe666aeeb1de01c933"
     ],
     [
       "MetaArgs.uu___65",
@@ -70,7 +61,16 @@
       1,
       [ "@query", "equation_MetaArgs.diag" ],
       0,
-      "e942022919a3a52575eb1d1cc43aefce"
+      "70fb5773f76eedec53dc51b0aa8f58cf"
+    ],
+    [
+      "MetaArgs.uu___66",
+      2,
+      2,
+      1,
+      [ "@query", "equation_MetaArgs.diag" ],
+      0,
+      "4631c16c10b8f87efaf209ee05bb555f"
     ]
   ]
 ]

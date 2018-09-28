@@ -1,5 +1,5 @@
 [
-  "rdÉ¦«=‘6\u0013ÌX©¼\u0002ùq",
+  "š_œþ½íºÁ´Bk2úM‡y",
   [
     [
       "X64.Semantics_s.ins",
@@ -12,7 +12,7 @@
         "haseqX64.Machine_s_Tm_refine_e85c4468bd6fa895770a44e5ae1526dc"
       ],
       0,
-      "8c1d4682815b10b3d4846da5c30ce372"
+      "b4d84455e25d9bdcd45f75a9ca89464c"
     ],
     [
       "X64.Semantics_s.__proj__Mov64__item__dst",
@@ -26,7 +26,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e8de62b85869f7c1a1780736ed143295"
       ],
       0,
-      "49a26f6e07791ec0fed1ae4aca96e1ce"
+      "03336f3e3998dfd58b8b920495a23d3f"
     ],
     [
       "X64.Semantics_s.__proj__Mov64__item__src",
@@ -40,7 +40,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e8de62b85869f7c1a1780736ed143295"
       ],
       0,
-      "7ecbab41339b3b75befc8bec95f318c8"
+      "c182c7ad86a265e87d1a1254801db5f1"
     ],
     [
       "X64.Semantics_s.__proj__Add64__item__dst",
@@ -54,7 +54,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_6fab9340d0ab4fd98129eb512f268790"
       ],
       0,
-      "80d014a5f45b4327e38e77b460b1f4e9"
+      "d0ec4eb785cad70f16c01dd210f03c06"
     ],
     [
       "X64.Semantics_s.__proj__Add64__item__src",
@@ -68,7 +68,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_6fab9340d0ab4fd98129eb512f268790"
       ],
       0,
-      "bf471c0f03df791c3c37da35d3117627"
+      "3d302602e14e73817b2ab647c3544713"
     ],
     [
       "X64.Semantics_s.__proj__AddLea64__item__dst",
@@ -82,7 +82,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e04f937679d9c74a6caf8aa7b9f98189"
       ],
       0,
-      "9f4045da699b7bba7932f0da3b1c7125"
+      "a3697dfa5e5c9a1d1cb2ec7fa26f522e"
     ],
     [
       "X64.Semantics_s.__proj__AddLea64__item__src1",
@@ -96,7 +96,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e04f937679d9c74a6caf8aa7b9f98189"
       ],
       0,
-      "c0a7b0e66ef51f033db516011e4e6325"
+      "e480cf663a4d0abfdd5ccc6ee8990086"
     ],
     [
       "X64.Semantics_s.__proj__AddLea64__item__src2",
@@ -110,7 +110,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e04f937679d9c74a6caf8aa7b9f98189"
       ],
       0,
-      "a003a9d4833a7e1be39bfa42db239f7b"
+      "7985c7d607aad970db2320338e4ef2ac"
     ],
     [
       "X64.Semantics_s.__proj__AddCarry64__item__dst",
@@ -124,7 +124,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_16a53ffd1bab892d408baed6f0393a33"
       ],
       0,
-      "1d9c7b51628830e66a85e650b432f0e0"
+      "8c1f5c55178a0dd8097b438d2ef0fe9a"
     ],
     [
       "X64.Semantics_s.__proj__AddCarry64__item__src",
@@ -138,7 +138,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_16a53ffd1bab892d408baed6f0393a33"
       ],
       0,
-      "428dc91b05651d3b648c4bf11a46879d"
+      "4141cc81c239b17044cef1578ba89a20"
     ],
     [
       "X64.Semantics_s.__proj__Sub64__item__dst",
@@ -152,7 +152,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_569023f890bbff681c285b9f9a216ade"
       ],
       0,
-      "472bfd480ae3708546a6eb630ab42a67"
+      "6062651635894e2376c534b84331bbbd"
     ],
     [
       "X64.Semantics_s.__proj__Sub64__item__src",
@@ -166,7 +166,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_569023f890bbff681c285b9f9a216ade"
       ],
       0,
-      "0e09811ad851543fd85bd64b3f87ead1"
+      "0c2a990ec49d8db1f05deba921ba5e99"
     ],
     [
       "X64.Semantics_s.__proj__Mul64__item__src",
@@ -180,7 +180,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_eb9d1a68ff54ae6cb27769ecbf49ba9b"
       ],
       0,
-      "4ed688fcc48a811d413f4301553e43e3"
+      "fc7885c8476b766544a08e561a20c320"
     ],
     [
       "X64.Semantics_s.__proj__IMul64__item__dst",
@@ -194,7 +194,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_2b0bbeefece73e6f59fc38828ce1e64e"
       ],
       0,
-      "c80ca9aa1d2bf392fb229663af01d78e"
+      "ac687a47e5d69acf085b424ade7186cb"
     ],
     [
       "X64.Semantics_s.__proj__IMul64__item__src",
@@ -208,7 +208,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_2b0bbeefece73e6f59fc38828ce1e64e"
       ],
       0,
-      "10a1f070a1c9217bedd5bfc6f9cf84cf"
+      "0283c20c2141fe34ff056cb8e9dcf016"
     ],
     [
       "X64.Semantics_s.__proj__Xor64__item__dst",
@@ -222,7 +222,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_1957040814f569aff4b252943fe77fdd"
       ],
       0,
-      "d4c16e9e3fad600de5def0da2862d769"
+      "de4bb698ec1219c56e0f936adcd4cf48"
     ],
     [
       "X64.Semantics_s.__proj__Xor64__item__src",
@@ -236,7 +236,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_1957040814f569aff4b252943fe77fdd"
       ],
       0,
-      "7d445c53cdf5ea08239543632e0d34c2"
+      "668dd6d147d36e83f3ac0d587699e5ab"
     ],
     [
       "X64.Semantics_s.__proj__And64__item__dst",
@@ -250,7 +250,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_cebe7e9690dfac8d7c9475e4922b0da2"
       ],
       0,
-      "5ac50d532436ad58e37bc98f01f7f3b8"
+      "bd29f9843cf9d5e5dc48ce66c223fb0f"
     ],
     [
       "X64.Semantics_s.__proj__And64__item__src",
@@ -264,7 +264,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_cebe7e9690dfac8d7c9475e4922b0da2"
       ],
       0,
-      "925fc1ae4a38a2c4712881ea142710b9"
+      "20f91895e0ef2a49a501071a7c5f28a1"
     ],
     [
       "X64.Semantics_s.__proj__Shr64__item__dst",
@@ -278,7 +278,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e31d0af1473307c26c9e917a73600ad0"
       ],
       0,
-      "0994fd17500e2fe05234fbac1cf92dd9"
+      "f13dd454647c9e7eb951a23290fed79f"
     ],
     [
       "X64.Semantics_s.__proj__Shr64__item__amt",
@@ -292,7 +292,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e31d0af1473307c26c9e917a73600ad0"
       ],
       0,
-      "0a117dd17d8b4709c3fab9536c14095f"
+      "87f0fbb4d6d14fb7bf97615bb50d5bfe"
     ],
     [
       "X64.Semantics_s.__proj__Shl64__item__dst",
@@ -306,7 +306,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_b4ab27333df03bce36b56906586a3225"
       ],
       0,
-      "92319a2d5c8ad28d11d3f10e91c1d94b"
+      "a76aa6249a5561ae920ff40b6b9653e0"
     ],
     [
       "X64.Semantics_s.__proj__Shl64__item__amt",
@@ -320,7 +320,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_b4ab27333df03bce36b56906586a3225"
       ],
       0,
-      "edbcb8fce96627f28a928ba53e475638"
+      "39d09d1d6e08ecb7461d243fb177230d"
     ],
     [
       "X64.Semantics_s.ocmp",
@@ -329,7 +329,7 @@
       0,
       [ "@query", "assumption_X64.Machine_s.operand__uu___haseq" ],
       0,
-      "05bdfe0a032b64203a45d1a9788c9430"
+      "8a51ecd8c8b5bf22d8c4fa174c476c41"
     ],
     [
       "X64.Semantics_s.__proj__OEq__item__o1",
@@ -343,7 +343,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_495233c1b3965f79901632003c360db5"
       ],
       0,
-      "330d200fef345e7ce182320c9fcafee4"
+      "0707daebc0d047b89f7fea0f03fef840"
     ],
     [
       "X64.Semantics_s.__proj__OEq__item__o2",
@@ -357,7 +357,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_495233c1b3965f79901632003c360db5"
       ],
       0,
-      "5fe1660356269574a056bf345900a60c"
+      "9d2b8327c0d510e5eede613427930995"
     ],
     [
       "X64.Semantics_s.__proj__ONe__item__o1",
@@ -371,7 +371,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_48e1a980bff417eb8ecda8fd755a7052"
       ],
       0,
-      "2706c80ddb78d42a9489563bdb94a8c6"
+      "2d5ac033a2b49aeafbe745909a92856f"
     ],
     [
       "X64.Semantics_s.__proj__ONe__item__o2",
@@ -385,7 +385,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_48e1a980bff417eb8ecda8fd755a7052"
       ],
       0,
-      "fd44d131e35e7d922cff9d619fbf6864"
+      "959f2d86449e13c10418fe977ceac2d9"
     ],
     [
       "X64.Semantics_s.__proj__OLe__item__o1",
@@ -399,7 +399,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_57f9b3587a37875d37de2b8ee309c52c"
       ],
       0,
-      "8a097e9302377eee96ef7b1545e1b22d"
+      "4148f8c89258af7207268ad945754cfe"
     ],
     [
       "X64.Semantics_s.__proj__OLe__item__o2",
@@ -413,7 +413,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_57f9b3587a37875d37de2b8ee309c52c"
       ],
       0,
-      "977a4dbab8b5fa8be0f89ba95ee09bca"
+      "3d4c004aa9804bec75940eb7f3cffc7e"
     ],
     [
       "X64.Semantics_s.__proj__OGe__item__o1",
@@ -427,7 +427,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_f22bf0e89c9043ddb9367ea1bd90ba6e"
       ],
       0,
-      "6ead60188bb101261873b2a8436e1264"
+      "e42487c503fbd9deeee256e291f14b2a"
     ],
     [
       "X64.Semantics_s.__proj__OGe__item__o2",
@@ -441,7 +441,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_f22bf0e89c9043ddb9367ea1bd90ba6e"
       ],
       0,
-      "bdd67723d6a2b21cf1dc83c3d4d142d6"
+      "87e1a7a361d9d665d87bb061642ec038"
     ],
     [
       "X64.Semantics_s.__proj__OLt__item__o1",
@@ -455,7 +455,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e3f7ed102fdc0dee07045511829455f8"
       ],
       0,
-      "25dffa5801c459068fab03a0a9d6544d"
+      "b41164e55054f5684f17bc8734fb7345"
     ],
     [
       "X64.Semantics_s.__proj__OLt__item__o2",
@@ -469,7 +469,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e3f7ed102fdc0dee07045511829455f8"
       ],
       0,
-      "a188c7c67f6e815eb12abed3a51c7a3c"
+      "60a6be050d8c15b040ae6d74f02ac762"
     ],
     [
       "X64.Semantics_s.__proj__OGt__item__o1",
@@ -483,7 +483,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_078a14331436c956e0be06364feefcd5"
       ],
       0,
-      "5042c37198d7419aadd775f0a1f75ae9"
+      "8fd1131c4f75a898d3ac0840eaf670c5"
     ],
     [
       "X64.Semantics_s.__proj__OGt__item__o2",
@@ -497,7 +497,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_078a14331436c956e0be06364feefcd5"
       ],
       0,
-      "bae1ac3261fa9598d8aef46b48efbb27"
+      "a736ebb5e8c31e62587d5ecfb6b001a8"
     ],
     [
       "X64.Semantics_s.mem",
@@ -506,7 +506,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "7240f712cf77f41df03085b4b8803d6d"
+      "a3789c014567fa2a01844fe3a325ee2c"
     ],
     [
       "X64.Semantics_s.mem_make",
@@ -515,7 +515,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "6585dca8acd9b49cc49463656ba64bf8"
+      "f6fc1fe2b9873ba9828b60026e7c1629"
     ],
     [
       "X64.Semantics_s.u",
@@ -527,7 +527,7 @@
         "equation_FStar.UInt.size"
       ],
       0,
-      "031c8dd5dafbc5df5a57d5355dd83e57"
+      "4d6280f202319728553881125948a2c9"
     ],
     [
       "X64.Semantics_s.eval_mem",
@@ -536,7 +536,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "dd4998a4d9d28bca399587544a75d52b"
+      "158f06a5858f00e9ad7a0130c57747ce"
     ],
     [
       "X64.Semantics_s.eval_maddr",
@@ -551,7 +551,7 @@
         "fuel_guarded_inversion_X64.Machine_s.maddr"
       ],
       0,
-      "50a9471182092795dc8138f4885941b3"
+      "99bb79c22ffc012863459e65893fa193"
     ],
     [
       "X64.Semantics_s.eval_operand",
@@ -578,7 +578,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "41bb7c2124821bd5a819a4494433133d"
+      "7e8de468d34b536e7ff7de5b59dde6cd"
     ],
     [
       "X64.Semantics_s.update_reg'",
@@ -587,7 +587,7 @@
       0,
       [ "@query", "assumption_X64.Machine_s.reg__uu___haseq" ],
       0,
-      "5766f83e092aea6046ca79d0aed68172"
+      "3658f66b1664ce5767a30f2bd40458a0"
     ],
     [
       "X64.Semantics_s.update_mem",
@@ -596,7 +596,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "502cc2893a22a6a4447190560b60e6d7"
+      "0c16a3ebbb4b9b6d77247eea425eb164"
     ],
     [
       "X64.Semantics_s.valid_maddr",
@@ -605,7 +605,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "e934d13b841df2f1692be7333381525c"
+      "a545d954366d98c49b7b2caf405eae26"
     ],
     [
       "X64.Semantics_s.valid_operand",
@@ -620,7 +620,7 @@
         "fuel_guarded_inversion_X64.Machine_s.operand"
       ],
       0,
-      "8caa38d9ddc28220dbdd25b096d40510"
+      "ccde3acf5eeaf7544be70ac7827d88a8"
     ],
     [
       "X64.Semantics_s.update_operand_preserve_flags'",
@@ -639,7 +639,7 @@
         "refinement_interpretation_X64.Machine_s_Tm_refine_e85c4468bd6fa895770a44e5ae1526dc"
       ],
       0,
-      "4c655871bdd00e15d7c47ae9fff60bdd"
+      "ab9899eed7c4d84dd3dbb194adbc7c06"
     ],
     [
       "X64.Semantics_s.cf",
@@ -648,7 +648,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "d4b2594b874ef952927e36684af34e38"
+      "39ff6ae6eb0a0d55a467b3678a513bbe"
     ],
     [
       "X64.Semantics_s.update_cf",
@@ -678,7 +678,7 @@
         "typing_X64.Semantics_s.cf"
       ],
       0,
-      "a6e98178f8d13d1427bfb18226d954e1"
+      "a653cea6db93b9fafe9475936e4fc418"
     ],
     [
       "X64.Semantics_s.logxor",
@@ -704,7 +704,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "7b34f33b1ad19c3ac1f89739c111a109"
+      "bb86042f71de792717d72b64fb57ad3a"
     ],
     [
       "X64.Semantics_s.logxor_uint64",
@@ -723,7 +723,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "d857b3560e8f7b07edc70951d172fccc"
+      "c15db85b86ab03c13c1a781d31ab4c66"
     ],
     [
       "X64.Semantics_s.logand",
@@ -749,7 +749,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "64ee0a15f5b1fc0bacd62e0a0735a101"
+      "70d693ad8e39ab41226445683c8b5a25"
     ],
     [
       "X64.Semantics_s.logand_uint64",
@@ -768,7 +768,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "f353236aabe49215ed9c5abacc8b0c17"
+      "3adf83568b56de1df12e509cb4fed43b"
     ],
     [
       "X64.Semantics_s.shift_right",
@@ -795,7 +795,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "616b1aadd5f329fe958639a22db6053b"
+      "c36c8ef87ddb4d29785c67c3e0b51da8"
     ],
     [
       "X64.Semantics_s.shift_right_uint64",
@@ -818,7 +818,7 @@
         "projection_inverse_BoxInt_proj_0"
       ],
       0,
-      "51c6c2a7a3903c1d13e4c674b55af2f7"
+      "ed7271a836418dd1e112cb0b46de7b3c"
     ],
     [
       "X64.Semantics_s.shift_left",
@@ -848,7 +848,7 @@
         "typing_Prims.pow2"
       ],
       0,
-      "12d2312153f00b16880ed4cfdb0f4ffd"
+      "a95d8449db865dc692e81baef730a99c"
     ],
     [
       "X64.Semantics_s.shift_left_uint64",
@@ -871,7 +871,7 @@
         "projection_inverse_BoxInt_proj_0"
       ],
       0,
-      "086c4f9341a4bbd571d060cb6b06cabb"
+      "a8f762dcf7eb8b5de53b3e570162a70b"
     ],
     [
       "X64.Semantics_s.eval_ocmp",
@@ -891,7 +891,7 @@
         "fuel_guarded_inversion_X64.Semantics_s.ocmp"
       ],
       0,
-      "1124d7ff28b4f3b42fb277eafba042fe"
+      "f5e27706d7e708d442bc565eb8811c0e"
     ],
     [
       "X64.Semantics_s.add_mod64",
@@ -900,7 +900,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "4f59ae25220ae8e7b3621240dbdcf5b8"
+      "c7476f442586a0a51d0bf06f38ddc9b8"
     ],
     [
       "X64.Semantics_s.add_mod64",
@@ -921,7 +921,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "bde791792bd5870a82f444bfebd9a501"
+      "ba95caf3f8036c661ac443b1e8b4268b"
     ],
     [
       "X64.Semantics_s.sub_mod64",
@@ -930,7 +930,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "aaa1580ecff1d540d30c4e43b302fdde"
+      "87c557d4c3345549b6040bcc70d73e6b"
     ],
     [
       "X64.Semantics_s.sub_mod64",
@@ -951,7 +951,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "c4080bf1d375e6e3cb5ee464665a1e15"
+      "b0916cbf5eba32561c80da9c0a5792a0"
     ],
     [
       "X64.Semantics_s.mul_mod64",
@@ -960,7 +960,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "af40407e339a3b5d6cff16f59ef2fc9e"
+      "4b84874fecfafa415739647ffd0e8b55"
     ],
     [
       "X64.Semantics_s.mul_mod64",
@@ -981,7 +981,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "3ae6fbf6527a91d832351cd30347d429"
+      "dc4188fecc9151d99537a0179a22ca8e"
     ],
     [
       "X64.Semantics_s.mul_div64",
@@ -990,7 +990,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "b5a92e223d66824238ac4cfcea3fad1d"
+      "3d289fc80e726316a7402089d7d8de0a"
     ],
     [
       "X64.Semantics_s.mul_div64",
@@ -1018,7 +1018,7 @@
         "typing_FStar.UInt64.v"
       ],
       0,
-      "a9f839ecccbb925a78784aeef93f8a3a"
+      "3a54195c0ff2911bbc187f377de5a0e8"
     ],
     [
       "X64.Semantics_s.eval_ins",
@@ -1057,7 +1057,7 @@
         "typing_X64.Semantics_s.shift_right"
       ],
       0,
-      "27216b9c99028f695970387587fa2683"
+      "56d2b347e14dd341f2b27072d3f8b500"
     ],
     [
       "X64.Semantics_s.eval_code",
@@ -1080,7 +1080,7 @@
         "subterm_ordering_X64.Machine_s.While"
       ],
       0,
-      "e52f5bbc84b396a29c884effc4896453"
+      "315a3711921096524bb6cbc02f48a54e"
     ],
     [
       "X64.Semantics_s.eval_code",
@@ -1102,7 +1102,7 @@
         "subterm_ordering_Prims.Cons"
       ],
       0,
-      "33c4786a8d191f24b977afd5e2f615ea"
+      "298f4639e9f33faba592ba4c480d1d6a"
     ],
     [
       "X64.Semantics_s.eval_code",
@@ -1127,7 +1127,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "bc22a3ee26c275196360375b161f148f"
+      "956815783e8a13ac6128ac1013529c12"
     ],
     [
       "X64.Semantics_s.ins",
@@ -1140,7 +1140,7 @@
         "haseqX64.Machine_s_Tm_refine_e85c4468bd6fa895770a44e5ae1526dc"
       ],
       0,
-      "ea03feb9fd075d429dc9f7a37a5da00c"
+      "e432cbf644eb22d0976a6eb9672f2076"
     ],
     [
       "X64.Semantics_s.__proj__Mov64__item__dst",
@@ -1154,7 +1154,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e8de62b85869f7c1a1780736ed143295"
       ],
       0,
-      "830e7b336c5a23ca8cc3492359cd23c6"
+      "717f7fc2fa6865a1936a69d5f3ac1dd7"
     ],
     [
       "X64.Semantics_s.__proj__Mov64__item__src",
@@ -1168,7 +1168,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e8de62b85869f7c1a1780736ed143295"
       ],
       0,
-      "509495d6d6edaafd737adc002b8b7233"
+      "cd5edc0f8c93f8c500609dd43b308472"
     ],
     [
       "X64.Semantics_s.__proj__Add64__item__dst",
@@ -1182,7 +1182,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_6fab9340d0ab4fd98129eb512f268790"
       ],
       0,
-      "6da7173a306c9333129148dbb68acbe3"
+      "1e94ccf574c7354393b11da4acec794e"
     ],
     [
       "X64.Semantics_s.__proj__Add64__item__src",
@@ -1196,7 +1196,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_6fab9340d0ab4fd98129eb512f268790"
       ],
       0,
-      "4bfa6162a55286700e20107a48d92fa1"
+      "096fc9e851cb2c7fb093060c83c3b3f9"
     ],
     [
       "X64.Semantics_s.__proj__AddLea64__item__dst",
@@ -1210,7 +1210,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e04f937679d9c74a6caf8aa7b9f98189"
       ],
       0,
-      "e10e00a9edd275bf0e656c26aafca8c5"
+      "3b8afb31e9a1fdc535227d81219ad349"
     ],
     [
       "X64.Semantics_s.__proj__AddLea64__item__src1",
@@ -1224,7 +1224,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e04f937679d9c74a6caf8aa7b9f98189"
       ],
       0,
-      "cdd74dce73e5b8f7275afabeb7071869"
+      "1b3efeaf3ea69d35fb8f2984412b356a"
     ],
     [
       "X64.Semantics_s.__proj__AddLea64__item__src2",
@@ -1238,7 +1238,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e04f937679d9c74a6caf8aa7b9f98189"
       ],
       0,
-      "46a4176f1488fb885a7f07e149e4bdab"
+      "b0dbcb52ee852f2ea5c35a27c98e9ce9"
     ],
     [
       "X64.Semantics_s.__proj__AddCarry64__item__dst",
@@ -1252,7 +1252,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_16a53ffd1bab892d408baed6f0393a33"
       ],
       0,
-      "64db4030276379d7728a66211325e629"
+      "cb8e8a0e7f6e650f1e50b97c6404ad91"
     ],
     [
       "X64.Semantics_s.__proj__AddCarry64__item__src",
@@ -1266,7 +1266,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_16a53ffd1bab892d408baed6f0393a33"
       ],
       0,
-      "e9c38b355ec1bab7626c6d9f11bd38a7"
+      "077accbd69e5db509600caa9147216ef"
     ],
     [
       "X64.Semantics_s.__proj__Sub64__item__dst",
@@ -1280,7 +1280,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_569023f890bbff681c285b9f9a216ade"
       ],
       0,
-      "98eba0af9adb3c1af7e79005f4ae46b1"
+      "27f4b152aaeeb4e83a943006f72286cf"
     ],
     [
       "X64.Semantics_s.__proj__Sub64__item__src",
@@ -1294,7 +1294,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_569023f890bbff681c285b9f9a216ade"
       ],
       0,
-      "29847ca87f6ebb008586f55aa64f9df6"
+      "aaeb728d8d3437604648398405c09f46"
     ],
     [
       "X64.Semantics_s.__proj__Mul64__item__src",
@@ -1308,7 +1308,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_eb9d1a68ff54ae6cb27769ecbf49ba9b"
       ],
       0,
-      "b2267a31dea1d41b3351ac9ad7f90c2e"
+      "403a4440ee8348693d2ac4f92558940d"
     ],
     [
       "X64.Semantics_s.__proj__IMul64__item__dst",
@@ -1322,7 +1322,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_2b0bbeefece73e6f59fc38828ce1e64e"
       ],
       0,
-      "f9f8441319bb348069764d5cf0f4656b"
+      "44b90103fafccd1942ddb3127d97e20a"
     ],
     [
       "X64.Semantics_s.__proj__IMul64__item__src",
@@ -1336,7 +1336,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_2b0bbeefece73e6f59fc38828ce1e64e"
       ],
       0,
-      "a7b144284f1ec65966f5f66126273143"
+      "87a6d6f748b3fba4e353ec84ebec68a8"
     ],
     [
       "X64.Semantics_s.__proj__Xor64__item__dst",
@@ -1350,7 +1350,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_1957040814f569aff4b252943fe77fdd"
       ],
       0,
-      "3ae022bc227f5c0d1e91610b1010b291"
+      "78bccd02c153fbb891ca58b4b7103294"
     ],
     [
       "X64.Semantics_s.__proj__Xor64__item__src",
@@ -1364,7 +1364,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_1957040814f569aff4b252943fe77fdd"
       ],
       0,
-      "06dff3f9472283eccc5251379623a4e9"
+      "74b431abdfcb47aef15c7f04f49b666a"
     ],
     [
       "X64.Semantics_s.__proj__And64__item__dst",
@@ -1378,7 +1378,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_cebe7e9690dfac8d7c9475e4922b0da2"
       ],
       0,
-      "6ed8ce3d4c7053cd7eded0287b29a13b"
+      "047f0391ba4308f5f70bb33a66bdeebf"
     ],
     [
       "X64.Semantics_s.__proj__And64__item__src",
@@ -1392,7 +1392,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_cebe7e9690dfac8d7c9475e4922b0da2"
       ],
       0,
-      "b0cdc52558e65387e47ac62e39786735"
+      "d9ee8a12041b46ba8091ac39f68ed7de"
     ],
     [
       "X64.Semantics_s.__proj__Shr64__item__dst",
@@ -1406,7 +1406,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e31d0af1473307c26c9e917a73600ad0"
       ],
       0,
-      "a3cc476bff628b3403014a2614e391ff"
+      "38ac39af1aa7e40c9072d076e1fea458"
     ],
     [
       "X64.Semantics_s.__proj__Shr64__item__amt",
@@ -1420,7 +1420,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e31d0af1473307c26c9e917a73600ad0"
       ],
       0,
-      "360d6c4fae7eb9c0ab48ff7a1437efbd"
+      "6fd9d4dab37aca57a65eec15afca785b"
     ],
     [
       "X64.Semantics_s.__proj__Shl64__item__dst",
@@ -1434,7 +1434,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_b4ab27333df03bce36b56906586a3225"
       ],
       0,
-      "8ae036924562bc0c9b7561b255e9c2f9"
+      "afddbd67ffeb39d668d835fb27d88f6c"
     ],
     [
       "X64.Semantics_s.__proj__Shl64__item__amt",
@@ -1448,7 +1448,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_b4ab27333df03bce36b56906586a3225"
       ],
       0,
-      "4a6d80c2f324bde5867419b6e715af6e"
+      "69dcecee90aac6bcf967e1c1ccb9b85a"
     ],
     [
       "X64.Semantics_s.ocmp",
@@ -1457,7 +1457,7 @@
       0,
       [ "@query", "assumption_X64.Machine_s.operand__uu___haseq" ],
       0,
-      "1b22d94a153d086486ef19894ad0b020"
+      "50c44bc71ea9722d86800f090b9a1666"
     ],
     [
       "X64.Semantics_s.__proj__OEq__item__o1",
@@ -1471,7 +1471,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_495233c1b3965f79901632003c360db5"
       ],
       0,
-      "c2525b05ee0529ebe3f13ea582c043c0"
+      "e17b1308500cae882b4beb07d78a4fab"
     ],
     [
       "X64.Semantics_s.__proj__OEq__item__o2",
@@ -1485,7 +1485,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_495233c1b3965f79901632003c360db5"
       ],
       0,
-      "b535ec45e97ff251778c67feef2fff07"
+      "1a38785e1c47146828978f780a4131c1"
     ],
     [
       "X64.Semantics_s.__proj__ONe__item__o1",
@@ -1499,7 +1499,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_48e1a980bff417eb8ecda8fd755a7052"
       ],
       0,
-      "ba1b09519b337da48a59782e85d3c800"
+      "4fa0fa729470f71d31082aeb069b8df6"
     ],
     [
       "X64.Semantics_s.__proj__ONe__item__o2",
@@ -1513,7 +1513,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_48e1a980bff417eb8ecda8fd755a7052"
       ],
       0,
-      "4abbdcbc47b004d8be51febfa51659bc"
+      "bb68bdfa19d8b869987ced48a52a9627"
     ],
     [
       "X64.Semantics_s.__proj__OLe__item__o1",
@@ -1527,7 +1527,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_57f9b3587a37875d37de2b8ee309c52c"
       ],
       0,
-      "97f8c0cd7b1994cc91afc75cccfbc65d"
+      "b516dfc6d1043a01aa41642fec39192b"
     ],
     [
       "X64.Semantics_s.__proj__OLe__item__o2",
@@ -1541,7 +1541,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_57f9b3587a37875d37de2b8ee309c52c"
       ],
       0,
-      "e310ca4210b9222a27a64ce3d143fbb7"
+      "afbb52c2b940955e659f1260a5a7b8b3"
     ],
     [
       "X64.Semantics_s.__proj__OGe__item__o1",
@@ -1555,7 +1555,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_f22bf0e89c9043ddb9367ea1bd90ba6e"
       ],
       0,
-      "000f95575ebfdc1ff62e68f4e95c5dfa"
+      "6937f52ca9350cd5324c8bf68d8af2d3"
     ],
     [
       "X64.Semantics_s.__proj__OGe__item__o2",
@@ -1569,7 +1569,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_f22bf0e89c9043ddb9367ea1bd90ba6e"
       ],
       0,
-      "60bae95d2e48c009b4a4200dac5b5c1f"
+      "16e0309bf3bb84650c45d1ee98ba15d0"
     ],
     [
       "X64.Semantics_s.__proj__OLt__item__o1",
@@ -1583,7 +1583,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e3f7ed102fdc0dee07045511829455f8"
       ],
       0,
-      "a3db0b1e5d66e19f4d5f20ae916cefe4"
+      "ef849e8330d83902422fdf1f828216af"
     ],
     [
       "X64.Semantics_s.__proj__OLt__item__o2",
@@ -1597,7 +1597,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_e3f7ed102fdc0dee07045511829455f8"
       ],
       0,
-      "ab32548a337cb026a9d40da770313160"
+      "fd70a5ef1103e3166136b4bbb59a1d7a"
     ],
     [
       "X64.Semantics_s.__proj__OGt__item__o1",
@@ -1611,7 +1611,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_078a14331436c956e0be06364feefcd5"
       ],
       0,
-      "1494a06decf36f0acb9a1852864b80e0"
+      "d2d35c7af75d1bbc557a9f2ecd202c6e"
     ],
     [
       "X64.Semantics_s.__proj__OGt__item__o2",
@@ -1625,7 +1625,7 @@
         "refinement_interpretation_X64.Semantics_s_Tm_refine_078a14331436c956e0be06364feefcd5"
       ],
       0,
-      "3a04a2e11f6eeb042d0091239b0d5a1a"
+      "a8fea685b7f771f6b0035d222ebbd3bf"
     ],
     [
       "X64.Semantics_s.mem",
@@ -1634,7 +1634,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "f6d404fb9d0e8ec161af8ecabb697274"
+      "219769855e2b9dbbe27b7aded22da1d7"
     ],
     [
       "X64.Semantics_s.mem_make",
@@ -1643,7 +1643,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "320974a2ea676931474caa4fad73de85"
+      "ef8a3b8d088b2440d690dac870538693"
     ],
     [
       "X64.Semantics_s.u",
@@ -1655,7 +1655,7 @@
         "equation_FStar.UInt.size"
       ],
       0,
-      "c0261dcd9995cbb6cd6361d5f9bbc093"
+      "f164cf238f6a4c03dcdf93892a409410"
     ],
     [
       "X64.Semantics_s.eval_mem",
@@ -1664,7 +1664,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "d2c14ec7fe7f791f93542b013b2fca16"
+      "f8de0c4835485d3afca1933fe1eddc79"
     ],
     [
       "X64.Semantics_s.eval_maddr",
@@ -1679,7 +1679,7 @@
         "fuel_guarded_inversion_X64.Machine_s.maddr"
       ],
       0,
-      "1e9b561376b477b3f8607fd98c963dc8"
+      "e087e87413b45c53b2636eeb2e88035e"
     ],
     [
       "X64.Semantics_s.eval_operand",
@@ -1706,7 +1706,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "bb590f89d70cc8bc4908ca9846f0f023"
+      "d7b5b91fe32cafb50456a4df9668c96a"
     ],
     [
       "X64.Semantics_s.update_reg'",
@@ -1715,7 +1715,7 @@
       0,
       [ "@query", "assumption_X64.Machine_s.reg__uu___haseq" ],
       0,
-      "bd76fa4314fc0ffdc1e6b45d0cec3094"
+      "880cc739a8ffc3852055b80ec0f77e60"
     ],
     [
       "X64.Semantics_s.update_mem",
@@ -1724,7 +1724,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "94726c4ab341e6579a28814c3949d18d"
+      "0d9c2c7f7e8b5f90e8297a5a955802b6"
     ],
     [
       "X64.Semantics_s.valid_maddr",
@@ -1733,7 +1733,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "c970dc1525b75103c2daab7858ef4cda"
+      "b07a70dc8974305710ea88f5c82a01d6"
     ],
     [
       "X64.Semantics_s.valid_operand",
@@ -1748,7 +1748,7 @@
         "fuel_guarded_inversion_X64.Machine_s.operand"
       ],
       0,
-      "c75b674d55dd3ea366dd608a28340861"
+      "73de307289a770f3c0a787ebf1fa5ecd"
     ],
     [
       "X64.Semantics_s.update_operand_preserve_flags'",
@@ -1767,7 +1767,7 @@
         "refinement_interpretation_X64.Machine_s_Tm_refine_e85c4468bd6fa895770a44e5ae1526dc"
       ],
       0,
-      "7e07a8b6a1937449e86fa2e5068b6edf"
+      "42b22a32daa70b0dc472c4091ef25ef1"
     ],
     [
       "X64.Semantics_s.cf",
@@ -1776,7 +1776,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "bbf37df7f1aa55f0023b0d0755b6b0df"
+      "b48c4cd6234e8743063dca27f7ce39ed"
     ],
     [
       "X64.Semantics_s.update_cf",
@@ -1806,7 +1806,7 @@
         "typing_X64.Semantics_s.cf"
       ],
       0,
-      "f2cc02195783fbad7d7d500557589c76"
+      "4458948eb721dcccc7a7c46d2bee8ccc"
     ],
     [
       "X64.Semantics_s.logxor_uint64",
@@ -1824,7 +1824,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "75ba46763c3e78dcff293620b474648e"
+      "90969427ec97b99788787f55b4b73f9a"
     ],
     [
       "X64.Semantics_s.logand_uint64",
@@ -1842,7 +1842,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "3404655fdfd32cf5e79d3860ce9b67d3"
+      "6f5e5d2fd58a0a9f0be2e524feda32c0"
     ],
     [
       "X64.Semantics_s.shift_right_uint64",
@@ -1859,7 +1859,7 @@
         "int_inversion"
       ],
       0,
-      "0518c0787cec3eac33d1ce4df0c025bf"
+      "45abb59c5aacfe603aa7f6f605cb8cef"
     ],
     [
       "X64.Semantics_s.shift_left_uint64",
@@ -1876,7 +1876,7 @@
         "int_inversion"
       ],
       0,
-      "72f005526cf5eb5d4a327db5721ca030"
+      "3c3b229d25d35b54fb03960c2dee8b5d"
     ],
     [
       "X64.Semantics_s.eval_ocmp",
@@ -1896,7 +1896,7 @@
         "fuel_guarded_inversion_X64.Semantics_s.ocmp"
       ],
       0,
-      "3729c61f808b2136510241920f7596d5"
+      "9d6f051aa97cd1e824f7bde8558f0dfb"
     ],
     [
       "X64.Semantics_s.add_mod64",
@@ -1917,7 +1917,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "57d0aaaeabc1da39861696169fc080fa"
+      "1eed8020998b0a59954a17aeb9743a99"
     ],
     [
       "X64.Semantics_s.add_mod64",
@@ -1926,7 +1926,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "224478fb65ddd99a97adfe20e24f7cf7"
+      "9fad075ccd579aa45f2d1a037fbef366"
     ],
     [
       "X64.Semantics_s.sub_mod64",
@@ -1947,7 +1947,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "73820b85d98423fe2966cc37289f3136"
+      "4c52dc79d411798e93e8a0d2cd74ec5d"
     ],
     [
       "X64.Semantics_s.sub_mod64",
@@ -1956,7 +1956,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "ace9f6baee854e7e5ad0c10eb7387a68"
+      "6fce7175151a12e4582535e3d27782c5"
     ],
     [
       "X64.Semantics_s.mul_mod64",
@@ -1977,7 +1977,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "bec860de9f0426a86037de0eace476cd"
+      "7b34e85f2578e0e4ff25a79516aff667"
     ],
     [
       "X64.Semantics_s.mul_mod64",
@@ -1986,7 +1986,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "b0737f1aed5ad5895be69de82c5b762f"
+      "3ca5059d341747118bbabdb73842969b"
     ],
     [
       "X64.Semantics_s.mul_div64",
@@ -2014,7 +2014,7 @@
         "typing_FStar.UInt64.v"
       ],
       0,
-      "3465765e0d9068ccb0cc9fb56a85739e"
+      "a98a772fd309a161403ce1fa2ff79352"
     ],
     [
       "X64.Semantics_s.mul_div64",
@@ -2023,7 +2023,7 @@
       0,
       [ "@query", "assumption_Prims.HasEq_int" ],
       0,
-      "33dde3bf89c425d80e1e3380152cba3e"
+      "9886f469f1795fc0ca79eb0b28835c4c"
     ],
     [
       "X64.Semantics_s.eval_ins",
@@ -2047,7 +2047,7 @@
         "refinement_interpretation_Prims_Tm_refine_a4038d5aed1633b5ecbb4e499b1c66ad"
       ],
       0,
-      "0bf186f135bf6726c143da273a740936"
+      "3354e2943df70f5ef89e722ba49f6ae4"
     ],
     [
       "X64.Semantics_s.eval_code",
@@ -2070,7 +2070,7 @@
         "subterm_ordering_X64.Machine_s.While"
       ],
       0,
-      "54b3666298406ab12ad5dc589b281e73"
+      "353ee6a7a6faf994c66329ccaedfa668"
     ],
     [
       "X64.Semantics_s.eval_code",
@@ -2092,7 +2092,7 @@
         "subterm_ordering_Prims.Cons"
       ],
       0,
-      "2cfd881a06d54088e1af754671df9100"
+      "6eff105469519e4c95eed59d1188265f"
     ],
     [
       "X64.Semantics_s.eval_code",
@@ -2116,7 +2116,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "240aa5757bfef373ad014cb2d52dcc63"
+      "81c745a15459958c11f6287ba4638daf"
     ]
   ]
 ]
