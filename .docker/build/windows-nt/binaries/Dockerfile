@@ -25,6 +25,7 @@ RUN Invoke-BashCmd rm -f orange_status.txt
 RUN Invoke-BashCmd rm -f result.txt
 RUN Invoke-BashCmd rm -f status.txt
 RUN Invoke-BashCmd rm -f commitinfofilename.json
+RUN Invoke-BashCmd rm -f timestamp.txt
 
 COPY build.sh build.sh
 COPY build_helper.sh build_helper.sh

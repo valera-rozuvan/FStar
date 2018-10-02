@@ -12,6 +12,9 @@ ssh-add .ssh/id_rsa
 
 eval $(opam config env)
 
+# Generate the container timestamp for debug purposes
+echo $(date -u "+%Y-%m-%d %H:%M:%S") >> "timestamp.txt"
+
 echo $(date -u "+%Y-%m-%d %H:%M:%S") >> $out_file
 echo "FStar source version: $fstarVersion" >> $out_file
 
@@ -35,6 +38,3 @@ if [[ $target != "fstar-docs"  && $target != "fstar-binary-build" ]]; then
     # Worst offenders (longest times)
     FStar/.scripts/query-stats.py -f $out_file -F html -o log_worst.html -c -g -n 10
 fi
-
-# Generate the container timestamp for debug purposes
-echo $(date -u "+%Y-%m-%d %H:%M:%S") >> "timestamp.txt"

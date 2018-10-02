@@ -16,6 +16,7 @@ RUN rm -f orange_status.txt
 RUN rm -f result.txt
 RUN rm -f status.txt
 RUN rm -f commitinfofilename.json
+RUN rm -f timestamp.txt
 
 # ADD SSH KEY
 RUN mkdir -p ${MYHOME}/.ssh
